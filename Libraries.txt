@@ -1,3 +1,4 @@
+piLib.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/piLib.lua
 AllClass.lua=https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/AllClass.lua 
 AoE_SkillShot_Position.lua=http://pastebin.com/raw.php?i=8EPME629 @"Scripts\Common\AoE_SkillShot_Position.lua  
 AoESkillshotPosition.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua 
@@ -32,8 +33,8 @@ Selector.lua=http://iuser99.com/scripts/Selector.lua
 SALib.lua=https://raw.githubusercontent.com/SkeemBoL/NintendoBoL/master/BH%20Bundle/Common/SALib.lua
 Prodiction.lua=https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Test/Prodiction/Prodiction.lua
 PPrediction.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
-PingLib.lua=https://github.com/gmzopper/BoL/blob/master/PingLib.lua
-PacketLib.lua=https://github.com/gmzopper/BoL/blob/master/PacketLib.lua
+PingLib.lua=https://raw.githubusercontent.com/gmzopper/BoL/master/PingLib.lua
+PacketLib.lua=https://raw.githubusercontent.com/gmzopper/BoL/master/PacketLib.lua
 OneTickOneAction.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/OneTickOneAction.lua 
 HPrediction.lua=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/Common/HPrediction.lua
 old2dgeo.lua=http://pastebin.com/raw.php?i=kn5uHWpx 
