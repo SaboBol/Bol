@@ -1,4 +1,3 @@
-piLib.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/piLib.lua
 AllClass.lua=https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/AllClass.lua 
 AoE_SkillShot_Position.lua=http://pastebin.com/raw.php?i=8EPME629 @"Scripts\Common\AoE_SkillShot_Position.lua  
 AoESkillshotPosition.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua 
