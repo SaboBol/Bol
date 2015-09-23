@@ -43,7 +43,7 @@ NintendoLib.lua=https://raw.githubusercontent.com/SkeemBoL/NintendoBoL/master/Ni
 Nebelwolfi's Orb Walker.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Nebelwolfi%27s%20Orb%20Walker%20v0.46.lua
 MapPosition.lua=https://raw.githubusercontent.com/c3iL/BoL-1/master/MapPosition.lua
 LineSkillShotPosition.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/LineSkillShotPosition.lua
-LEVEL.lua"=https://raw.githubusercontent.com/fter44/ilikeman/master/common/LEVEL.lua
+LEVEL.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/LEVEL.lua
 LawsUI.lua=https://raw.githubusercontent.com/thelaw44/LawsUI/master/common/LawsUI.lua
 ItemRecipes.lua=http://pastebin.com/raw.php?i=hTM4bVC6
 ITEM_MANAGER.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/ITEM_MANAGER.lua
