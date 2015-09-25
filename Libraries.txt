@@ -57,7 +57,7 @@ FTER_SOW.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/FTE
 DivineJumper.luac=http://www.divinetek.rocks/divinejumper/Scripts/Common/DivineJumper.luac 
 DivineKarthus.luac=http://www.divinetek.rocks/divinekarthus/Scripts/Common/DivineKarthus.luac 
 DivinePred.lua=http://www.divinetek.rocks/divineprediction/Scripts/Common/DivinePred.lua
-DivinePred.luac=http://www.divinetek.rocks/divineprediction/Scripts/Common/DivinePred.luac 
+DivinePred.luac=https://github.com/SaboBol/est/raw/master/DivinePred.luac 
 DivineXerath.luac=http://www.divinetek.rocks/divinexerath/Scripts/Common/DivineXerath.luac
 DRAW_POS_MANAGER.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/DRAW_POS_MANAGER.lua 
 DrawDamageLib.lua=http://pastebin.com/raw.php?i=UfZ0Efax
