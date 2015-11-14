@@ -56,3 +56,6 @@ Edited_AllClass.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/com
 ezCollision.lua=https://raw.githubusercontent.com/soulcaliber/BoL/master/Common/ezCollision.lua 
 ezLibrary.lua=https://raw.githubusercontent.com/soulcaliber/BoL/master/Common/ezLibrary.lua 
 FastCollision.lua=https://bitbucket.org/boboben1/bol-scripts/raw/master/Misc/FastCollision.lua
+Nebelwolfi's Orb Walker.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/Nebelwolfi%27s%20Orb%20Walker.lua
+UPL.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UPL.lua
+
