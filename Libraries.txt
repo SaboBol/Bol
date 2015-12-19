@@ -60,3 +60,4 @@ Nebelwolfi's Orb Walker.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/mas
 UPL.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UPL.lua
 SPrediction.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/SPrediction.lua
 KeyboardMasterLib.lua=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterLib.lua
+Furry_Packets_Lib.lua=https://raw.githubusercontent.com/FurryBoL/master/master/Furry_Packets_Lib.lua
