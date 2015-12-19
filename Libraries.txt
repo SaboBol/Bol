@@ -59,3 +59,4 @@ FastCollision.lua=https://bitbucket.org/boboben1/bol-scripts/raw/master/Misc/Fas
 Nebelwolfi's Orb Walker.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/Nebelwolfi%27s%20Orb%20Walker.lua
 UPL.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UPL.lua
 SPrediction.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/SPrediction.lua
+KeyboardMasterLib.lua=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterLib.lua
