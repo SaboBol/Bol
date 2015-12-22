@@ -63,3 +63,4 @@ KeyboardMasterLib.lua=https://raw.githubusercontent.com/Lonsemaria/scripts/maste
 Furry_Packets_Lib.lua=https://raw.githubusercontent.com/FurryBoL/master/master/Furry_Packets_Lib.lua
 S1mple_Libary.lua=http://scarjit.de/S1mpleScripts/Scripts/BolStudio/Libary/S1mpleLibary/S1mple_Libary.lua
 S1mple_MasteryChooser.lua=http://scarjit.de/S1mpleScripts/Scripts/BolStudio/Libary/MasteryChooser/S1mple_MasteryChooser.lua
+UOL.lua=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UOL.lua
