@@ -13,7 +13,6 @@ ComboClass.lua=https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scri
 ComboLib.lua=https://raw.githubusercontent.com/LlamaBoL/BoL/master/Common/comboLib.lua
 CustomPermaShow.lua=https://raw.githubusercontent.com/Superx321/BoL/master/common/CustomPermaShow.lua
 DataManager.lua=https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/DataManager.lua
-DivineAwareness.luac=http://www.divinetek.rocks/divineawareness/DivineAwareness.luac
 zSxUpdate.lua=https://raw.githubusercontent.com/ElZaiat/zAwareness/master/Scripts/Common/zSxUpdate.lua
 TotallyLib.lua=https://raw.githubusercontent.com/Nickieboy/BoL/master/lib/TotallyLib.lua
 SxOrbWalk.lua=https://raw.githubusercontent.com/Superx321/BoL/master/common/SxOrbWalk.lua 
