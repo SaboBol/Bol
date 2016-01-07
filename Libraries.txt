@@ -43,9 +43,6 @@ imLib.lua=https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Com
 iLib.lua=https://raw.githubusercontent.com/c3iL/BoL-1/master/iLib.lua
 GodLib.lua=https://raw.githubusercontent.com/DevnBoL/BoL1.0Scripts/master/GodLib/GodLib.lua
 FTER_SOW.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/FTER_SOW.lua
-DivineJumper.luac=http://www.divinetek.rocks/divinejumper/Scripts/Common/DivineJumper.luac 
-DivineKarthus.luac=http://www.divinetek.rocks/divinekarthus/Scripts/Common/DivineKarthus.luac 
-DivineXerath.luac=http://www.divinetek.rocks/divinexerath/Scripts/Common/DivineXerath.luac
 DRAW_POS_MANAGER.lua=https://raw.githubusercontent.com/fter44/ilikeman/master/common/DRAW_POS_MANAGER.lua 
 DrawDamageLib.lua=http://pastebin.com/raw.php?i=UfZ0Efax
 dSourcelib.lua=https://raw.githubusercontent.com/DraconisBoL/BoL-Mechanics/master/common/dSourcelib.lua
