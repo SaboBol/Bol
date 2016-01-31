@@ -3,7 +3,7 @@ AoE_SkillShot_Position.lua=http://pastebin.com/raw.php?i=8EPME629 @"Scripts\Comm
 AoESkillshotPosition.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua 
 AQLib.lua=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/common/AQLib.lua 
 BestCollision.lua=https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua 
-PewPacketLib.lua=https://raw.githubusercontent.com/PewPewPew2/BoL/Danger-Meter/PewPacketLib.lua
+PewPacketLib.lua=https://raw.githubusercontent.com/PewPewPew2/BoL/master/PewPacketLib.lua
 VPrediction.lua=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Common/VPrediction.lua
 sacvpred.lua=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Common/sacvpred.lua
 Big Fat Orbwalker.lua=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/LimitedAccess/Big%20Fat%20Orbwalker.lua 
